@@ -1,0 +1,214 @@
+.tittle-Center{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial Narrow';
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px;
+    }
+
+.carousel-inner{
+    width: 90%;
+    height: 400px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    justify-content: center;
+}
+
+.paragraph-Center{
+    text-align: center;
+   margin-left: 40px;
+    margin-right: 40px;
+    font-family: initial;
+    text-shadow: 10px 8px 20px;
+}
+
+.tittle-Polit{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial Narrow';
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px;
+}
+.paragraph-Polit{
+    text-align: center;
+    font-family: initial;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.img-Polit{
+    width: 90%;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+}
+
+.Summary-Polit{
+    text-align: center;
+    margin: 10px;
+    font-family: initial;
+}
+
+.title-International{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial Narrow';
+    text-shadow: 2px 2px 4px;
+}
+.paragraph-International{
+    text-align: center;
+    font-family: initial;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.img-International{
+    width: 90%;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;;
+}
+.Summary-International{
+    text-align: center;
+    margin: 10px;
+    font-family: initial;
+
+}
+
+.tittle-Education{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Arial Narrow';
+    text-shadow: 2px 2px 4px;
+}
+.paragraph-Education{
+    text-align: center;
+    font-family: initial;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.img-Education{
+    width: 90%;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;;
+}
+.Summary-Education{
+    text-align: center;
+    margin: 10px;
+    font-family: initial;
+}
+
+
+.center-Zone-Under {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px ;
+    width: 100%;
+}
+
+.under-right {
+background-color: rgb(255, 255, 255);
+width: 30%;
+margin: 1px;
+}
+.under-right:hover{
+    background-color: rgb(0, 0, 0);
+    color: white
+}
+
+.under-center {
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    margin: 1px;
+}
+.under-center:hover{
+    background-color: black;
+    color: white
+}
+
+.under-left {
+background-color: rgb(255, 255, 255);
+width: 30%;
+margin: 1px;
+}
+.under-left:hover{
+    background-color: black;
+    color: white
+}
+.tittle-SciencieAndTechnology{
+    text-align: center;;
+    font-family: 'Arial Narrow';
+    margin-top: 20px;
+    text-shadow: 1px 1px 4px;
+}
+
+.img-SciencieAndTechnology{
+    width: 80%;
+    height: 100px;
+    margin: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.paragraph-SciencieAndTechnology{
+    text-align: center;
+    font-family: initial;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.tittle-Economy{
+    text-align: center;;
+    font-family: 'Arial Narrow';
+    margin-top: 20px;
+    text-shadow: 1px 1px 4px;
+}
+.img-Economy{
+    width: 80%;
+    height: 100px;
+    margin: 13px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.paragraph-Economy{
+    text-align: center;
+    font-family: initial;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.tittle-Astronomy{
+    text-align: center;;
+    font-family: 'Arial Narrow';
+    margin-top: 20px;
+    text-shadow: 1px 1px 4px;
+}
+
+.img-Astronomy{
+    width: 80%;
+    height: 100px;
+    margin: 15px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+}
+.paragraph-Astronomy{
+    text-align: center;
+    font-family: initial;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.pagination{
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+}

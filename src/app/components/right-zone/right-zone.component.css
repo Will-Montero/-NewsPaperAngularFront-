@@ -1,0 +1,57 @@
+/*seeker*/
+.seeker {
+    margin: 100px 1px 0px 5px;
+    border-radius: 15px;
+    border: solid rgb(255, 255, 255) 1px;
+    
+   
+}
+.seekeInput{
+    border-radius: 10px;
+    width: 50%px;
+    justify-content: center;
+}
+.seekerButton{
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+.seekerButton:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+/*dropdown*/
+.dropdown{
+    padding: 2px;
+    margin-top: 50px;
+    padding: 50px 10px 50px 5px;
+    border-radius: 15px;
+    border: solid rgb(10, 9, 9) 1px;
+    padding: 5px;
+}
+.dropdown:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+/*Login*/
+.Login{
+    margin: 50px 1px 50px 5px;
+    border-radius: 15px;
+    border: solid rgb(10, 9, 9) 1px;
+    padding: 5px;
+}
+
+/*register*/
+.register{
+    margin: 50px 1px 50px 5px;
+    border-radius: 15px;
+    border: solid rgb(10, 9, 9) 1px;
+    padding: 5px;
+}
+.register:hover{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+

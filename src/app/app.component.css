@@ -1,0 +1,32 @@
+.header {
+  position: sticky; 
+  z-index: 10;
+  top: 0;
+  width: 100%;
+}
+
+.section {
+    display: flex;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+  }
+  .app-side-bar {
+    padding: 0px;
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 5px;
+    border-left: solid 3px  #001352;
+    border-right: solid 1px  #001352;
+  }
+  .app-central-zone {
+    width: 60%;
+    background-color: rgb(255, 255, 255);
+  }
+  .app-right-zone {
+    width: 20%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 0px;
+    border-left: solid 1px  #001352;
+  }
+  

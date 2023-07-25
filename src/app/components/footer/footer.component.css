@@ -1,0 +1,8 @@
+/*foot of newspaper*/
+footer {
+    background: rgb(169, 197, 255);
+    background: -moz-linear-gradient(299deg, rgb(161, 192, 255) 0%, rgb(82, 82, 255) 100%);
+    background: -webkit-linear-gradient(299deg, rgb(255, 255, 255) 0%, rgb(119, 119, 197) 100%);
+    background: linear-gradient(299deg, rgb(227, 231, 240) 0%, rgb(96, 98, 251) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#e3e4e6",endColorstr="#a5a5c6",GradientType=1);
+}

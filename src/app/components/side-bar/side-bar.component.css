@@ -1,0 +1,105 @@
+/*social media headline*/
+.socialNetwork{
+    margin: 100px 0px 30px 3px;
+    padding-bottom: 30px;
+    justify-content: center;
+}
+
+.tittleNetwork{
+    text-align: center;
+}
+
+/*images and social media link*/
+.divYoutube{
+    display: flex;
+}
+.imgYoutube{
+    width: 25px;
+    height: 25px;
+    margin: 0px 10px 20px 7px;
+}
+.pYoutube{
+    text-align: center;
+    margin: 0px;
+    text-decoration: underline;
+
+}
+.divFacebook{
+display: flex;
+}
+.imgFacebook{
+    width: 25px;
+    height: 22px;
+    margin: 0px 10px 20px 7px;
+}
+.pFacebook{
+     text-align: center;
+    margin: 0px;
+    text-decoration: underline;
+}
+.divTwiter{
+display: flex;
+}
+.imgTwiter{
+    width: 25px;
+    height: 22px;
+    margin: 0px 10px 20px 7px;
+}
+.pTwiter{
+     text-align: center;
+    margin: 0px;
+    text-decoration: underline;
+}
+.divInstagram{
+display: flex;
+}
+.imgInstagram{
+    width: 27px;
+    height: 27px;
+    margin: 0px 10px 20px 7px;
+}
+.pInstagram{
+     text-align: center;
+    margin: 0px;
+    text-decoration: underline;
+}
+.divGmail{
+display: flex;
+}
+.imgGmail{
+    width: 25px;
+    height: 25px;
+    margin: 0px 10px 20px 7px;
+}
+.pGmail{
+     text-align: center;
+    margin: 0px;
+    text-decoration: underline;
+}
+.divWhatsapp{
+display: flex;
+}
+.imgWhatsapp{
+    width: 25px;
+    height: 25px;
+    margin: 0px 10px 20px 7px;
+}
+.pWhatsapp{
+     text-align: center;
+    margin: 0px;
+    text-decoration: underline;
+}
+.divTik-tok{
+    display: flex;
+    }
+    .imgTik-tok{
+        width: 25px;
+        height: 25px;
+        margin: 0px 10px 0px 7px;
+    }
+    .pTik-tok{
+         text-align: center;
+        margin: 0px;
+        text-decoration: underline;
+        
+    }
